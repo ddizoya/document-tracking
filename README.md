@@ -56,8 +56,8 @@ I tested the utils package and the service layer, because it's where we can see 
 
 #### Methods too large!
 
-Some of my methods are a bit large, and I would separate them into smaller pieces. But I think tight now
-it's kinf of readible (yet!).
+Some of my methods are a bit large, and I would separate them into smaller pieces. But I think right now
+it's kind of readible (yet!).
 
 #### Wrapping the Repository components
 
