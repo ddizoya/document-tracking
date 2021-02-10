@@ -28,6 +28,8 @@ You can see the data used in [data.sql](./src/main/resources/data.sql) in the re
 mvn spring-boot:run
 ```
 
+Once you run it, you can easily test it on your localhost just by clicking [here](http://localhost:8080/doc-tracker/api/v1/swagger-ui.html)
+
 ## Tech stack dependencies
 
 Here a quick list of some interesting libs I have used for this demo:
